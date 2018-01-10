@@ -1,5 +1,5 @@
 NAME=expat
-VERSION=2.2.3
-REVISION=1
-SRC=http://prdownloads.sourceforge.net/expat/expat-2.2.3.tar.bz2
-SRCMD5=f053af63ef5f39bd9b78d01fbc203334
+VERSION=2.2.5
+REVISION=2
+SRC=http://prdownloads.sourceforge.net/expat/expat-2.2.5.tar.bz2
+SRCMD5=789e297f547980fc9ecc036f9a070d49
