@@ -1,7 +1,7 @@
 NAME=expat
-VERSION=2.2.5
-REVISION=1
-SRC=http://prdownloads.sourceforge.net/expat/expat-2.2.5.tar.bz2
-SRCMD5=789e297f547980fc9ecc036f9a070d49
+VERSION=2.2.6
+REVISION=2
+SRC=https://prdownloads.sourceforge.net/expat/expat-2.2.6.tar.bz2
+SRCMD5=ca047ae951b40020ac831c28859161b2
 OPTIONS=bootstrap|release (docs)
 DEFAULTS=release docs
